@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!README.md
+!catkin_ws
+!catkin_ws/src
+!catkin_ws/src/**
+
